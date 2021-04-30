@@ -1,5 +1,5 @@
 # MySQL Database Dump
-A lazy script to dump a specific database to a specific directory. In Gzip format.
+A lazy script to dump a specific database to a specific directory. In Gzip format. Crontab compatible.
 
 
 # Usage:
